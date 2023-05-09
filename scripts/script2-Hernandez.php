@@ -6,9 +6,9 @@
 * uno que cuenta los caracteres y otro para convertir a 
 * mayúsculas
 *
-* @version 1.0.0
-* @author Gonzalo Hernández
-* @copyright Gonzalo Hernández 2023
+* @version 2.0.0
+* @author Gonzalo Hernández Viciana
+* @copyright Gonzalo Hernández Viciana 2023
 * @todo implementar más métodos, como convertir a minúsculas
 *
 */

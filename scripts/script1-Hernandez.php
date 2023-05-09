@@ -5,9 +5,9 @@
 * Esta función multiplica el número dado por sí mismo
 * para obtener el número elevado al cuadrado
 *
-* @version 1.0.0
-* @author Gonzalo Hernández
-* @copyright Gonzalo Hernández 2023
+* @version 2.0.0
+* @author Gonzalo Hernández Viciana
+* @copyright Gonzalo Hernández Viciana 2023
 * @todo Crear otra función para elevar al cubo
 * @param integer $num número a elevar al cuadrado
 * @return integer el resultado de elevar al cuadrado
